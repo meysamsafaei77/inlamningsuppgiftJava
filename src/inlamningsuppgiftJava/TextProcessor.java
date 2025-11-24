@@ -61,7 +61,6 @@ public class TextProcessor {
             if (mintText[i].length() > longestWord.length()) {
                 // ...så uppdaterar vi rekordet till det nya ordet!
                 longestWord = mintText[i];
-                //klar
             }
         }
     }
